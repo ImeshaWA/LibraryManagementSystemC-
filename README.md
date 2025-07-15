@@ -18,7 +18,7 @@ This project integrates cataloging, circulation, user management and reporting i
 ## 🛠️ Tech Stack
 - **Language:** C#  
 - **Framework:** .NET (Windows Forms / WPF)  
-- **Database:** *Specify here (e.g., SQL Server, SQLite, etc.)*  
+- **Database:** SQL Server  
 - **IDE:** Visual Studio  
 
 ---
