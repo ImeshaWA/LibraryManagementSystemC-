@@ -1,11 +1,9 @@
-# 📚 Library Management System
+# Library Management System
 
 A **feature‑rich desktop application** developed in **C#** to streamline and automate library operations.  
 This project integrates cataloging, circulation, user management and reporting into one intuitive system, making library administration easier and more efficient.
 
----
-
-## ✨ Features
+## Features
 -  **Cataloging & Circulation:** Add, update, lend, and return books with ease.  
 -  **User Management:** Register and manage library members and staff.  
 -  **Reporting:** Generate detailed reports for inventory and user activities.  
@@ -13,13 +11,8 @@ This project integrates cataloging, circulation, user management and reporting i
 -  **Secure Database:** Ensures data integrity and reliable storage of library records.  
 -  **Tested & Documented:** Includes thorough testing and user manuals.
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** C#  
 - **Framework:** .NET (Windows Forms / WPF)  
 - **Database:** SQL Server  
 - **IDE:** Visual Studio  
-
----
-
